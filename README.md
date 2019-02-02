@@ -21,4 +21,8 @@ A minimal theme for VS Code that comes in dark and light.
 Alternatively install via CLI:
 ```
 code --install-extension miguelsolorio.min-theme
-```
+```commite this fork wtih desires as vitorperez
+mini jsn 
+copmputer garza837096
+jsn querry and my orgerztio
+commitfrk
